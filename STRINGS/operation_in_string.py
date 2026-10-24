@@ -19,9 +19,13 @@ print('Aditya' in a)
 
 print(a[0]) # output is A 
 
-print(a[6])
+print(a[5])
 
 print(a[-1]) # Go to back of string
 
+# In Python, values can be mutable or immutable.
+#  A mutable value can be changed after it is created, while an immutable value cannot.
 
-
+c = "Abhinav"
+c = "Guy"
+print(c)
