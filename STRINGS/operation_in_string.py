@@ -4,3 +4,6 @@ a = "Aditya"
 b = "Raj"
 
 print(a+b)
+
+print(a*3)
+
