@@ -67,3 +67,5 @@ print(title_case_str)
 
 capitalized_my_str = x.capitalize()
 print(capitalized_my_str)
+
+# FIXING CONFIG MAIL
